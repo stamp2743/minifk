@@ -27,4 +27,4 @@ spec:
       dnsPolicy: ClusterFirst
       restartPolicy: Always
       schedulerName: default-scheduler
-      terminationGracePeriodSeconds: 3o
+      terminationGracePeriodSeconds: 30

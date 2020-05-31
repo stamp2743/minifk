@@ -21,7 +21,7 @@ spec:
         app: backend
     spec:
       containers:
-      - image: b6015800/backend:v2
+      - image: b6015800/backend:v4
         imagePullPolicy: Always
         name: backend
       dnsPolicy: ClusterFirst

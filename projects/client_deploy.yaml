@@ -21,7 +21,7 @@ spec:
         app: client
     spec:
       containers:
-      - image: b6015800/client:v2
+      - image: b6015800/client:v4
         imagePullPolicy: Always
         name: client
       dnsPolicy: ClusterFirst
